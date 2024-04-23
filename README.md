@@ -255,12 +255,12 @@ return (0);
 ```
 
 ## OUTPUT:
-### with memset
+### with memset()
 ![image](https://github.com/Hariharan-061102/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/93427270/82b54da7-25a0-408e-aa8e-cf5423dca4ab)
 
-### without memset
+### without memset()
 ![image](https://github.com/Hariharan-061102/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/93427270/d3e4dded-b480-4649-8b47-009489ebaada)
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given more_0.5s_time.
