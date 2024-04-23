@@ -39,7 +39,7 @@ Allocate Host Memory
 22.	Reset the device using cudaDeviceReset and return from the main function.
 
 ## PROGRAM:
-```cudaC
+```cuda
 %%cuda
 #include <cuda_runtime.h>
 #include <stdio.h>
