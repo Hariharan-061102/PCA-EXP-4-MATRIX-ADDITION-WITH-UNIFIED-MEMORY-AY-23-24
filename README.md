@@ -263,4 +263,4 @@ return (0);
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given more_0.5s_time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has taken more time of _0.5s_ .
